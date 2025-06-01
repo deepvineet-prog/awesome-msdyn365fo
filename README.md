@@ -25,6 +25,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dynamics-AX-Integration](https://github.com/Microsoft/Dynamics-AX-Integration) - Dynamics AX Integration samples and demos.
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks)
 * [Dynamics-365-FastTrack-Implementation-Assets Public](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation Assets.
+* [dynamics365patternspractices](https://github.com/microsoft/dynamics365patternspractices) - Collaboration on patterns and practices, business processes, and other guidance
 
 ## Add-ins
 
@@ -47,6 +48,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dynamicspedia downloads](https://dynamicspedia.com/downloads/) - Different utilities from André Arnaud de Calavon.
 * [D365FOAdminToolkit](https://github.com/ameyer505/D365FOAdminToolkit) - A D365FO administrative toolkit built by the community for the community.
 * [MXT - X++ Interpreter](https://github.com/milnet92/MXTXppInterpreter) - X++ Interpreter for D365FO.
+* [ISM-Telemetry-for-Finance-and-Operations](https://github.com/microsoft/ISM-Telemetry-for-Finance-and-Operations) - Telemetry samples for Application Insights usage for Dynamics Finance & Operations
+* [D365FinanceToolbox](https://github.com/jofme/D365FinanceToolbox) - A collection of extensions, enhancements and 'nice-to-haves' for D365 finance and related workloads.
 
 ## Scripts
 
@@ -67,6 +70,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
 * [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app.
 * [Dynamics 365 Finance APIs](https://www.postman.com/anthonyblakedev/workspace/dynamics-365-finance-apis/overview) - Public Postman Workspace for Integrations
+* [Dynamics365FO-AppChecker](https://github.com/microsoft/Dynamics365FO-AppChecker) - Repository supporting the Dynamics 365 for Finance and Operations app checker
+* [d365-scm-telemetry](https://github.com/microsoft/d365-scm-telemetry) - Sample code for customer/partner telemetry emitted by the Dynamics 365 Supply Chain product.
+* [FSCPS](https://github.com/fscpscollaborative/fscps) - D365 FSC DevOps setup&maintenance tools for GitHub
+* [Dual-write-automations](https://github.com/microsoft/Dual-write-automations) - Dual-Write automation for deployment and initial setup
+* [D365FOSecurityConverter](https://github.com/ameyer505/D365FOSecurityConverter) - Converts D365FO user interface security XML to AOT XMLs
+
 
 ## Resources
 
