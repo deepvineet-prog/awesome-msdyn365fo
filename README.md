@@ -25,7 +25,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dynamics-AX-Integration](https://github.com/Microsoft/Dynamics-AX-Integration) - Dynamics AX Integration samples and demos.
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks)
 * [Dynamics-365-FastTrack-Implementation-Assets Public](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation Assets.
-* [dynamics365patternspractices](https://github.com/microsoft/dynamics365patternspractices) - Collaboration on patterns and practices, business processes, and other guidance
+* [dynamics365patternspractices](https://github.com/microsoft/dynamics365patternspractices) - Collaboration on patterns and practices, business processes, and other guidance.
+* [Dynamics 365 Partner Hub](https://dynamicspartners.transform.microsoft.com/gtm/modernize-erp) - Sales documents(Slides/Presentations/Marketing assets). May require partner account.
 
 ## Add-ins
 
