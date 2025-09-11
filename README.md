@@ -76,6 +76,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [FSCPS](https://github.com/fscpscollaborative/fscps) - D365 FSC DevOps setup&maintenance tools for GitHub
 * [Dual-write-automations](https://github.com/microsoft/Dual-write-automations) - Dual-Write automation for deployment and initial setup
 * [D365FOSecurityConverter](https://github.com/ameyer505/D365FOSecurityConverter) - Converts D365FO user interface security XML to AOT XMLs
+* [Dynamics 365 Finance & Operations MCP Server](https://github.com/mafzaal/d365fo-client) - A comprehensive Python client library and MCP server for Microsoft Dynamics 365 Finance & Operations (D365 F&O) that provides easy access to OData endpoints, metadata operations, label management, and AI assistant integration.
 
 
 ## Resources
